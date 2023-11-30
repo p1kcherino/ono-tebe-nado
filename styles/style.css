@@ -78,9 +78,6 @@
 .align-text-center {
  display: block;
  text-align: center;
- margin-left: 50px;
- margin-right: 110px;
- margin-top: 20px;
  line-height: 100%; /* 100px */
  letter-spacing: 30px;
 }
@@ -172,6 +169,7 @@
  text-decoration-line: underline;
  text-transform: uppercase;
  padding: 50px 40px 0px 40px;
+ text-underline-offset: 5px;
 }
 
 .card__text {
