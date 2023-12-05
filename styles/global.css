@@ -3,10 +3,14 @@
 *::after {
 }
 
+* { 
+ margin: 0;
+ padding: 0;
+}
+
 body {
   box-sizing: border-box;
-  margin: 0;
-  font-family: Raleway, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   max-width: 1440px;
   margin: auto;
 }
